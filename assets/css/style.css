@@ -1,6 +1,7 @@
 * {
     /* outline: 1px solid black; */
     margin: 0px;
+    box-sizing: content-box;
 }
 
 :root{
@@ -78,7 +79,7 @@
     flex-flow: column wrap;
     gap: 15px;
     justify-content: center;
-    width: 45%;
+    width: 60%;
     padding: 30px;
     border-radius: 5px;
 }
